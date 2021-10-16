@@ -8,7 +8,7 @@
 ## Pasos a realizar en la máquina local antes de subir los archivos a git lab
 - Creamos una carpeta nueva llamada subidagitlab con el comando **mkdir** "se tiene que crear como sudo" ![GitHub Logo](/gitlab/4.png)
 - Ahora desde el propio terminar entramos a la carpeta con el comando **cd** y el nombre de la carpeta a la cual queremos entrar "si la capeta no está en la ubicacion donde nosotros estamos en la consola tendremos que escribir la ruta entera para poder situarnos dentro de ella" insertar imagen![GitHub Logo](/gitlab/5.png)
-- Una vez dentro crearemos con el comando sudo **touch / nano /vi** algun docuemto para asi poder hacer la prueba de la subida de archivos y usamos el comando **ls** para verificar que se han creado correctamente insertar imagen![GitHub Logo](/gitlab/6.png)
+- Una vez dentro crearemos con el comando sudo **touch / nano /vi** algun docuemto para asi poder hacer la prueba de la subida de archivos y usamos el comando **ls** para verificar que se han creado correctamente insertar imagen![GitHub Logo](/gitlab/5.png)
 
 ## Pasos a realizar para la subida a gitlab
 - Primero tenemos que añadir el proyecto al control de versiones de git con el comando **sudo git init** para esto tenemos que estar dentro de la carpeta que queremos añadir, que en este caso es subidagitlab

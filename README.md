@@ -1,7 +1,7 @@
 # Ejecicios basicos con Gitlab
 
 ## Pasos ha realizar en git lab
-- Primero pasamos a realizar la creacion del repositorio desde la pagina web una vez hemos entrado pulsando en create poject instar imagen
+- Primero pasamos a realizar la creacion del repositorio desde la pagina web una vez hemos entrado pulsando en create poject ![GitHub Logo](/images/logo.png)
 - Tenemos que pulsar en **Create blanck project** insertar imagen
 - Ahora se nos habre automáticamente una ventana en la cual tenemos que darle un nombre al proyecto que en este caso será **ejerciciosbasico**, dejamos la opción de private por defecto y pulsamos en create project insertar imagen
 - Una vez hemos pulsado en create project nos saldra la siguiente imagen verificando oque se ha creado el proyecto correctamente insertar imagen

@@ -1,4 +1,4 @@
-# Ejecicios basicos con Gitlab
+# Ejecicios basicos con Gitlab Alejandro Torres
 
 ## Pasos ha realizar en git lab
 - Primero pasamos a realizar la creacion del repositorio desde la pagina web una vez hemos entrado pulsando en create poject ![GitHub Logo](/gitlab/1.png)

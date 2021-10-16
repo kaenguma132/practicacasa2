@@ -2,5 +2,5 @@
 # Ejecicios basicos con Gitlab
 
 ## Pasos ha realizar en git lab
-   - paso 1
+   1.paso 1
 

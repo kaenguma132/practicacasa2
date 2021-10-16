@@ -3,9 +3,8 @@
 ## Pasos ha realizar en git lab
 - Primero pasamos a realizar la creacion del repositorio desde la pagina web una vez hemos entrado pulsando en create poject ![GitHub Logo](/gitlab/1.png)
 - Tenemos que pulsar en **Create blanck project**  ![GitHub Logo](/gitlab/2.png)
-- Ahora se nos habre automáticamente una ventana en la cual tenemos que darle un nombre al proyecto que en este caso será **ejerciciosbasico**, dejamos la opción de private por defecto y pulsamos en create project ![GitHub Logo](/gitlab/3.png)
-- Una vez hemos pulsado en create project nos saldra la siguiente imagen verificando oque se ha creado el proyecto correctamente insertar imagen![GitHub Logo](/gitlab/4.png)
-
+- Ahora se nos habre automáticamente una ventana en la cual tenemos que darle un nombre al proyecto que en este caso será **ejerciciosbasico**, dejamos la opción de private por defecto y pulsamos en create project,Una vez hemos pulsado en create project nos saldra la siguiente imagen verificando oque se ha creado el proyecto correctamente ![GitHub Logo](/gitlab/3.png)
+-
 ## Pasos a realizar en la máquina local antes de subir los archivos a git lab
 - Creamos una carpeta nueva llamada subidagitlab con el comando **mkdir** "se tiene que crear como sudo" insertar imagen
 - Ahora desde el propio terminar entramos a la carpeta con el comando **cd** y el nombre de la carpeta a la cual queremos entrar "si la capeta no está en la ubicacion donde nosotros estamos en la consola tendremos que escribir la ruta entera para poder situarnos dentro de ella" insertar imagen

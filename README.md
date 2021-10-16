@@ -1,4 +1,6 @@
 
 # Ejecicios basicos con Gitlab
 
-C:\Users\Sikontor\Desktop\tarea 2 maximo\1.png
+## Pasos ha realizar en git lab
+   - paso 1
+
